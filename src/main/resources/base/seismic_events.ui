@@ -170,6 +170,26 @@ p, li { white-space: pre-wrap; }
         </property>
        </spacer>
       </item>
+      <item>
+       <widget class="QLabel" name="label_8">
+        <property name="text">
+         <string>Number sweeps</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="sweesp_spinBox">
+        <property name="minimumSize">
+         <size>
+          <width>50</width>
+          <height>0</height>
+         </size>
+        </property>
+        <property name="minimum">
+         <number>1</number>
+        </property>
+       </widget>
+      </item>
      </layout>
     </item>
     <item>
